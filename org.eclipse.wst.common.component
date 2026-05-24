@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="Doctor-Patient-Portal-AdvanceJavaWebProject-main">
+        <wb-resource deploy-path="/" source-path="/src/main/webapp" tag="defaultRootSource"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/Doctor-Patient-Portal-AdvanceJavaWebProject-main/Doctor-Patient-Portal/src/main/java"/>
+        <property name="context-root" value="Doctor-Patient-Portal-AdvanceJavaWebProject-main"/>
+        <property name="java-output-path" value="/Doctor-Patient-Portal-AdvanceJavaWebProject-main/bin"/>
+    </wb-module>
+</project-modules>
